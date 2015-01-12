@@ -1,8 +1,6 @@
-package topico0.House;
-
+package house;
 
 public class Main {
-
 	public static void main(String[] args) {
 		House h1 = new House("Calle falsa 123", 120.00, 3, 3500);
 		System.out.println(h1);
